@@ -1102,7 +1102,7 @@ button:focus {
 }
 
 .causes_item .causes_img .c_parcent span {
-  width: 70%;
+  width: 97%;
   height: 3px;
   background: #ea2c58;
   position: absolute;
@@ -1111,7 +1111,7 @@ button:focus {
 }
 
 .causes_item .causes_img .c_parcent span:before {
-  content: "75%";
+  content: "Donate";
   position: absolute;
   right: -10px;
   bottom: 0px;
